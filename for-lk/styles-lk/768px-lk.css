@@ -1,0 +1,178 @@
+@media (min-width: 768px){
+
+  .main-content{
+    overflow: hidden;
+    margin: 0 0px 0 135px;
+  }
+
+  nav {
+    background-color: #F5F5F5;
+    height: 100vh;
+    position: fixed;
+    width: 90px;
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+
+  .logo{
+    width: 80px;
+    position: fixed;
+    left: 6px;
+    bottom: 20px;
+    transform: rotate(0deg);
+  }
+
+
+  .menu-heading {
+
+    margin-top: 190px;
+    font-size: 30px;
+    letter-spacing: 1.54px;
+    /* margin-right: 10px; */
+  }
+
+  .head-present img{
+    margin-left: 90px;
+    width: 95%;
+  }
+
+  .project-name h1{
+    font-size: 45px;
+    color: #000000;
+  }
+
+  .project-name p{
+    font-size: 15px;
+    line-height: 18px;
+    color: #9D9D9D;
+    max-width: 270px;
+    margin-top: 10px;
+  }
+
+  .project-name-discription p{
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    margin: 50px 0px 120px 0px;
+    max-width: 520px;
+  }
+
+  .discription {
+    margin: 50px 0 0px 0;
+  }
+
+  h2 {
+    font-size: 35px;
+    line-height: 55px;
+    margin: 0 0 15px 0;
+  }
+
+  p{
+    font-size: 18px;
+    line-height: 32px;
+  }
+
+  .constraints{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 150px 0;
+  }
+
+
+  .constraints-discription p{
+    max-width: 700px;
+  }
+
+  .constraints img{
+    width: 70%;
+    margin: 0 0px 0 30%;
+  }
+
+  .request-creation{
+    margin: 0 0 150px 10px;
+  }
+  .request-creation p{
+    max-width: 510px;
+  }
+
+  .request-creation img{
+    width: 99%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+  .my-requests {
+    margin: 0 0 150px 10px;
+  }
+
+  .my-requests p{
+    max-width: 510px;
+  }
+
+  .my-requests img{
+    width: 99%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+  .mobility{
+    margin: 0 0 150px 10px;
+  }
+  .mobility p{
+    max-width: 510px;
+  }
+
+  .mobility-img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0 0 0px;
+  }
+
+  .mobility-img img{
+    width: 30%;
+    margin: 0px 0 0 0;
+  }
+
+  .promo-page{
+    margin: 0 0 150px 10px;
+  }
+
+  .promo-page p{
+    max-width: 510px;
+  }
+
+  .promo-page img{
+    width: 99%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+
+
+  .footer ul{
+    display: flex;
+    font-size: 14px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 135px;
+    text-decoration: underline;
+
+  }
+
+  .footer li:last-child{
+    padding: 0px 0px 0px 30px;
+
+  }
+
+  .footer li:nth-child(2n){
+
+    padding: 0px 0px 0px 30px;
+
+  }
+
+
+
+
+}

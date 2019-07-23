@@ -1,0 +1,172 @@
+@media (min-width: 320px){
+
+  .main-content{
+    overflow: hidden;
+    margin: 0 0px 0 70px;
+  }
+
+  nav {
+    background-color: #F5F5F5;
+    height: 100vh;
+    position: fixed;
+    width: 50px;
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+
+  .logo{
+    width: 70px;
+    position: fixed;
+    left: -12px;
+    bottom: 30px;
+    transform: rotate(-90deg);
+  }
+
+
+  .menu-heading {
+
+    margin-top: 180px;
+    font-size: 25px;
+    letter-spacing: 1.54px;
+    /* margin-right: 10px; */
+  }
+
+  .head-present img{
+    margin-left: 50px;
+    width: 95%;
+  }
+
+  .project-name h1{
+    font-size: 30px;
+    color: #000000;
+  }
+
+  .project-name p{
+    font-size: 14px;
+    line-height: 18px;
+    color: #9D9D9D;
+    max-width: 250px;
+    margin-top: 8px;
+  }
+
+  .project-name-discription p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #000000;
+    margin: 50px 0px 90px 0px;
+    max-width: 500px;
+  }
+
+  .discription {
+    margin: 30px 0 0px 0;
+  }
+
+  h2 {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 0 0 15px 0;
+  }
+
+  p{
+    font-size: 15px;
+    line-height: 25px;
+  }
+
+  .constraints{
+    margin: 30px 0 90px 0;
+  }
+
+
+  .constraints-discription p{
+    max-width: 500px;
+  }
+
+  .constraints img{
+    width: 80%;
+    margin: 20px 0px 0 0;
+  }
+
+  .request-creation{
+    margin: 0 0 90px 10px;
+  }
+  .request-creation p{
+    max-width: 400px;
+  }
+
+  .request-creation img{
+    width: 97%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+  .my-requests {
+    margin: 0 0 90px 10px;
+  }
+
+  .my-requests p{
+    max-width: 510px;
+  }
+
+  .my-requests img{
+    width: 97%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+  .mobility{
+    margin: 0 0 90px 0px;
+  }
+  .mobility p{
+    max-width: 510px;
+  }
+
+  .mobility-img {
+    margin: 50px 0 0 0px;
+  }
+
+  .mobility-img img{
+    width: 100%;
+    margin: 0px 0 80px 0px;
+  }
+
+  .promo-page{
+    margin: 0 0 90px 10px;
+  }
+
+  .promo-page p{
+    max-width: 510px;
+  }
+
+  .promo-page img{
+    width: 97%;
+    margin: 50px 0 0 0;
+    box-shadow: 0 0 9px 0 rgba(0,0,0,0.30);
+  }
+
+
+
+  .footer ul{
+    font-size: 13px;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    padding-left: 80px;
+    text-decoration: underline;
+
+  }
+
+  .footer li:last-child{
+    padding: 10px 0px 0px 0px;
+
+  }
+
+  .footer li:nth-child(2n){
+
+    padding: 10px 0px 0px 0px;
+
+  }
+
+
+
+
+}
