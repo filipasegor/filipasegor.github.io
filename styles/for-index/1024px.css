@@ -12,8 +12,11 @@
   }
 
   .main-content{
-    padding-left: 160px;
+    margin: 0 10px 0 170px;
+    text-align: left;
+    overflow: hidden;
   }
+
 
   .main-paragraph {
     max-width: 700px;
@@ -44,10 +47,9 @@
   }
 
   p {
-    margin: 7px 0px;
     font-size: 19px;
     line-height: 29px;
-    max-width: 700px;
+    max-width: 900px;
   }
 
 
@@ -131,7 +133,6 @@
 
   .me {
     width: 40vw;
-    padding-left: 3.9vw;
   }
 
   .is-philosophy {
@@ -139,7 +140,7 @@
   }
 
   .is-call-and-write {
-    margin-top: 150px;
+    margin-top: 70px;
     padding-top: 80px;
     padding-bottom: 130px;
 
@@ -186,7 +187,7 @@
   }
 
   .footer ul{
-    padding-left: 55px;
+    /* padding-left: 55px; */
   }
 
   .contacts-container {

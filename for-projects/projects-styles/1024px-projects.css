@@ -55,16 +55,17 @@
 
   .medium-section h2{
 
-    font-size: 30px;
-    padding: 20px 0px 10px 0px;
+    font-size: 25px;
+    padding: 5px 0px 5px 0px;
+    line-height: 30px;
 
   }
 
   .big-container h2{
 
-    font-size: 30px;
-    padding: 20px 0px 10px 0px;
-
+    font-size: 25px;
+    padding: 5px 0px 5px 0px;
+    line-height: 30px;
   }
 
   p{
@@ -153,13 +154,13 @@
   }
 
   .footer a:last-child{
-    padding: 0px 0px 0px 30px;
+    padding: 0px 0px 0px 0px;
 
   }
 
   .footer a:nth-child(2n){
 
-    padding: 0px 0px 0px 30px;
+    padding: 0px 0px 0px 0px;
 
   }
 

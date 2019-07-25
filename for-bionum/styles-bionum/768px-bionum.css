@@ -46,14 +46,14 @@
     line-height: 18px;
     color: #9D9D9D;
     max-width: 230px;
-    margin-top: 10px;
+    margin-top: 5px;
   }
 
   .project-name-discription p{
     font-size: 20px;
     line-height: 30px;
     color: #000000;
-    max-width: 487px;
+    max-width: 547px;
     margin: 35px 0px 0px 0px;
   }
 
@@ -111,7 +111,7 @@
   .main-page{
     margin-top: 100px;
     margin-left: 120px;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
   }
 
   .main-page-discription{
@@ -131,7 +131,7 @@
 
   .main-page img{
     width: 75%;
-    margin: 0 0 71px 11%;
+    margin: 0 0 31px 11%;
   }
 
   .main-page-img {

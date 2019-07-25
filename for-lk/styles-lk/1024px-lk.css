@@ -2,7 +2,7 @@
 
   .main-content{
     overflow: hidden;
-    margin: 0 0px 0 180px;
+    margin: 0 0px 0 185px;
   }
 
   nav {
@@ -32,8 +32,8 @@
   }
 
   .head-present img{
-    margin-left: 121px;
-    width: 95%;
+    margin-left: 70px;
+    width: 100%;
   }
 
   .project-name h1{
@@ -50,8 +50,8 @@
   }
 
   .project-name-discription p{
-    font-size: 25px;
-    line-height: 35px;
+    font-size: 30px;
+    line-height: 40px;
     color: #000000;
     margin: 0px 0px 0px 240px;
     max-width: 620px;
@@ -132,7 +132,7 @@
   }
 
   .mobility-img img{
-    width: 30%;
+    width: 35%;
   }
 
   .promo-page{

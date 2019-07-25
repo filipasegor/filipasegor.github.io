@@ -32,7 +32,7 @@
   }
 
   .head-present img{
-    margin-left: 30px;
+    margin-left: 20px;
     width: 100%;
   }
 
@@ -45,7 +45,7 @@
     font-size: 14px;
     line-height: 18px;
     color: #9D9D9D;
-    max-width: 420px;
+    max-width: 320px;
     margin-top: 10px;
   }
 
@@ -53,8 +53,8 @@
     font-size: 18px;
     line-height: 28px;
     color: #000000;
-    max-width: 477px;
-    margin: 25px 0px 0px 0px;
+    max-width: 500px;
+    margin: 25px 20px 0px 0px;
   }
 
   .discription {
@@ -63,9 +63,8 @@
   }
 
   .graphik{
-    margin-top: 80px;
-    margin-left: 60px;
-    margin-bottom: 80px;
+
+    margin: 80px 20px 80px 60px;
   }
 
   .graphik-discription h2{
@@ -107,9 +106,7 @@
   }
 
   .main-page{
-    margin-top: 70px;
-    margin-left: 60px;
-    margin-bottom: 70px;
+    margin: 70px 20px 70px 60px;
   }
 
   .main-page-discription{
@@ -128,7 +125,7 @@
   }
 
   .main-page img{
-    width: 97%;
+    width: 102%;
     margin: 0 0 30px 0%;
   }
 
@@ -136,6 +133,8 @@
     margin-left: 50px;
     margin-right: 0px;
   }
+
+
   .main-page-img img{
     width: 100%;
     margin-bottom: -4px;
@@ -144,15 +143,14 @@
 
 
   .articles{
-    margin-left: 60px;
-    margin-top: 70px;
-    margin-bottom: 30px;
+
+    margin: 70px 20px 30px 60px;
   }
 
 
   .articles-discription-img img{
     box-shadow: 0 0 7px 0 rgba(0,0,0,0.25);
-    width: 80%;
+    width: 85%;
     margin: 50px 0 0 8.5%
 
   }

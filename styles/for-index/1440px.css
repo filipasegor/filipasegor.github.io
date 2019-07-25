@@ -12,11 +12,12 @@
   }
 
   .main-content{
-    padding-left: 171px;
+    margin: 0 10px 0 230px;
+    text-align: left;
+    overflow: hidden;
   }
 
   .main-paragraph {
-    max-width: 800px;
     font-size: 40px;
     line-height: 55px;
     margin-top: 140px;
@@ -40,7 +41,7 @@
 
 
   p,h2, {
-    max-width: 900px;
+    /* max-width: 900px; */
   }
 
 
@@ -133,7 +134,6 @@
   } */
 
   .me {
-    padding-left: 3.9vw;
     width: 40vw;
   }
 
@@ -142,7 +142,7 @@
   }
 
   .is-call-and-write {
-    margin-top: 150px;
+    margin-top: 80px;
     padding-top: 80px;
     padding-bottom: 130px;
 

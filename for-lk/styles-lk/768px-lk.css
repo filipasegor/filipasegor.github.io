@@ -2,7 +2,7 @@
 
   .main-content{
     overflow: hidden;
-    margin: 0 0px 0 135px;
+    margin: 0 0px 0 120px;
   }
 
   nav {
@@ -33,8 +33,8 @@
   }
 
   .head-present img{
-    margin-left: 90px;
-    width: 95%;
+    margin-left: 35px;
+    width: 100%;
   }
 
   .project-name h1{
@@ -131,7 +131,7 @@
   }
 
   .mobility-img img{
-    width: 30%;
+    width: 35%;
     margin: 0px 0 0 0;
   }
 

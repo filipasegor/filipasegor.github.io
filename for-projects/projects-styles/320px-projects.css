@@ -27,10 +27,10 @@
 
   .menu-heading {
 
-    margin-top: 170px;
-    font-size: 35px;
+    margin-top: 130px;
+    font-size: 25px;
     letter-spacing: 1.54px;
-    /* margin-right: 10px; */
+    margin-right: 7px;
   }
 
 
@@ -56,16 +56,16 @@
 
   h2{
 
-    font-size: 25px;
-    padding: 15px 0px 7px 0px;
-    line-height: 32px;
+    font-size: 22px;
+    padding: 3px 0px 5px 0px;
+    line-height: 27px;
 
   }
 
   p{
-    max-width: 400px;
-    font-size: 18px;
-    line-height: 24px;
+    max-width: 350px;
+    font-size: 15px;
+    line-height: 22px;
 
   }
 
@@ -110,14 +110,14 @@
 
   }
 
-  .footer a:last-child{
+  .footer li:last-child{
     padding: 20px 0px 0px 0px;
 
   }
 
-  .footer a:nth-child(2n){
+  .footer li:nth-child(2n){
 
-    padding: 20px 0px 0px 0px;
+    padding: 20px 0px 20px 0px;
 
   }
 

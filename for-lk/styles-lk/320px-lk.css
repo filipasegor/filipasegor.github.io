@@ -2,7 +2,7 @@
 
   .main-content{
     overflow: hidden;
-    margin: 0 0px 0 70px;
+    margin: 0px 5px 0 55px;
   }
 
   nav {
@@ -32,9 +32,11 @@
     /* margin-right: 10px; */
   }
 
-  .head-present img{
+  .head-present{
     margin-left: 50px;
-    width: 95%;
+  }
+  .head-present img{
+    width: 100%;
   }
 
   .project-name h1{
@@ -84,7 +86,7 @@
 
   .constraints img{
     width: 80%;
-    margin: 20px 0px 0 0;
+    margin: 20px 0px 0px 9%;
   }
 
   .request-creation{
@@ -115,18 +117,18 @@
   }
 
   .mobility{
-    margin: 0 0 90px 0px;
+    margin: 0 0 0px 0px;
   }
   .mobility p{
     max-width: 510px;
   }
 
   .mobility-img {
-    margin: 50px 0 0 0px;
+    margin: 50px 0 0 9%;
   }
 
   .mobility-img img{
-    width: 100%;
+    width: 90%;
     margin: 0px 0 80px 0px;
   }
 
@@ -149,7 +151,7 @@
   .footer ul{
     font-size: 13px;
     padding-bottom: 20px;
-    padding-top: 50px;
+    padding-top: 55px;
     padding-left: 80px;
     text-decoration: underline;
 

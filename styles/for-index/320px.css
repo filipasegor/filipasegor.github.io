@@ -1,6 +1,7 @@
 @media (min-width: 320px){
 
 
+
   nav {
     background-color: #2B2B2B;
     height: 100%;
@@ -20,8 +21,14 @@
   }
 
   .main-content{
-    padding-left: 60px;
+    margin: 0 10px 0 65px;
     text-align: left;
+    overflow: hidden;
+  }
+
+  p,h2, .main-paragraph{
+    max-width: 450px;
+
   }
 
   .main-paragraph {
@@ -37,10 +44,6 @@
     letter-spacing: 1.54px;
   }
 
-  p,h2, .main-paragraph{
-    padding-left: 4vw;
-    max-width: 400px;
-  }
 
   h2 {
     margin: 0px 0px;
@@ -76,7 +79,6 @@
 
 
   .me {
-    padding-left: 4.6vw;
     width: 60vw;
   }
 
@@ -104,7 +106,7 @@
   .footer ul{
     font-size: 11px;
     padding-left: 16px;
-    padding-bottom: 320px;
+    padding-bottom: 200px;
 
   }
 

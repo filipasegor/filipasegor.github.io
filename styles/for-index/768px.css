@@ -15,7 +15,9 @@
   }
 
   .main-content{
-    padding-left: 120px;
+    margin: 0 10px 0 130px;
+    text-align: left;
+    overflow: hidden;
   }
 
   .main-paragraph {
@@ -43,7 +45,7 @@
 
 
   p,h2, .main-paragraph{
-    max-width: 500px;
+    max-width: 550px;
 
   }
 
@@ -137,7 +139,6 @@
 
   .me {
     width: 40vw;
-    padding-left: 5vw;
   }
 
   .is-philosophy {
@@ -145,7 +146,7 @@
   }
 
   .is-call-and-write {
-    margin-top: 150px;
+    margin-top: 70px;
     padding-top: 80px;
     padding-bottom: 130px;
 
@@ -202,7 +203,6 @@
   .footer ul{
     display: flex;
     font-size: 14px;
-    padding-left: 39px;
     padding-bottom: 100px;
 
   }
