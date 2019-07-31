@@ -2,7 +2,7 @@
 
   .main-content{
     overflow: hidden;
-    margin: 30px -6.7% 70px 60px;
+    margin: 30px 10px 70px 60px;
   }
 
   nav {
@@ -37,7 +37,7 @@
 
 
   .head-present-img img{
-    width: 110%;
+    width: 100%;
   }
 
   .head-present{
@@ -159,8 +159,8 @@
   }
 
   .illustration-img-small{
-    display: flex;
-    justify-content: space-between;
+    /* display: flex;
+    justify-content: space-between; */
   }
 
   .illustration-img-small img:nth-child(2n){
