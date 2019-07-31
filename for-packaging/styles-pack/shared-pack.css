@@ -12,12 +12,23 @@
   text-decoration: none;
 }
 
+
+.project-name a{
+  font-family: "BergenMono-Bold", monospace;
+  text-decoration: none;
+  color: #000000;
+}
+
+.project-name ul{
+  display: flex;
+}
+
 .menu a{
   text-decoration: none;
 }
 
 .project-name h1{
-  font-family: "BergenMono-SemiBold",monospace;
+  font-family: "BergenMono-Bold", monospace;
 }
 
 .project-name p{
@@ -25,7 +36,7 @@
 }
 
 .project-name-discription p{
-  font-family: "Circe-Light",sans-serif;
+  font-family: "BergenMono-Regular",monospace;
 }
 
 .graphik-discription h2{

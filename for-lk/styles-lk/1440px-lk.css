@@ -3,7 +3,7 @@
 
   .main-content{
     overflow: hidden;
-    margin: 0 80px 0 200px;
+    margin: 140px 80px 0 200px;
   }
 
   nav {
@@ -32,36 +32,46 @@
     /* margin-right: 10px; */
   }
 
-  .head-present img{
-    margin-left: 20px;
-    width: 98.2%;
+  .head-present-img{
+    margin: 0 0 0 0px;
   }
 
-  .project-name h1{
+
+  .head-present-img img{
+    width: 100%;
+  }
+
+  .head-present{
+    margin: 70px 0px 0 190px;
+    position: absolute;
+    width: 82%;
+  }
+
+  .project-name {
     font-size: 60px;
     color: #000000;
-  }
-
-  .project-name p{
-    font-size: 18px;
-    line-height: 22px;
-    color: #9D9D9D;
-    max-width: 270px;
-    margin-top: 19px;
-  }
-
-  .project-name-discription p{
-    font-size: 35px;
-    line-height: 50px;
-    color: #000000;
-    margin: 0px 0px 0px 240px;
-    max-width: 900px;
-  }
-
-  .discription {
     display: flex;
     justify-content: space-between;
-    margin: 70px 0 250px 0;
+    white-space: pre;
+  }
+
+  .project-name li{
+    padding-left: 50px;
+  }
+
+
+  .project-name-discription p:last-child {
+    font-size: 61px;
+    line-height: 103px;
+    color: #000000;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .project-name-discription p:first-child {
+    font-size: 35px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0px 0px 50px 0px;
   }
 
   h2 {
@@ -70,7 +80,7 @@
     margin: 0 0 15px 0;
   }
 
-  p{
+   p {
     font-size: 25px;
     line-height: 40px;
   }
@@ -78,7 +88,7 @@
   .constraints{
     display: flex;
     justify-content: space-between;
-    margin: 0 0 150px 0;
+    margin: 250px 0 150px 0;
   }
 
 

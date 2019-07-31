@@ -22,38 +22,49 @@
   }
 
 
-  .menu-heading {
-
-    margin-top: 250px;
-    font-size: 40px;
-    letter-spacing: 1.54px;
-    /* margin-right: 10px; */
+  .head-present-img{
+    margin: 0 0 0 121px;
   }
 
-  .head-present img{
-    margin-left: 50px;
-    width: 100%;
+
+  .head-present-img img{
+    width: 101%;
   }
 
-  .project-name h1{
-    font-size: 50px;
+
+  .head-present{
+    margin: 70px 80px 0 165px;
+    position: absolute;
+    width: 80%;
+  }
+
+  .project-name {
+    font-size: 45px;
     color: #000000;
+    display: flex;
+    justify-content: space-between;
+    white-space: pre;
   }
 
-  .project-name p{
-    font-size: 18px;
-    line-height: 22px;
-    color: #9D9D9D;
-    max-width: 270px;
+  .project-name li{
+    padding-left: 50px;
   }
 
-  .project-name-discription p{
+
+  .project-name-discription {
+    font-size: 50px;
+    line-height: 90px;
+    color: #000000;
+    margin: 50px 50px 0px 150px;
+  }
+
+  .project-name-discription p:first-child {
     font-size: 25px;
     line-height: 35px;
     color: #000000;
-    max-width: 501px;
-    margin: 0px 8% 0px 0%;
+    margin: 0px 0px 30px 0px;
   }
+
 
   .discription {
     display: flex;
@@ -84,7 +95,10 @@
 
   .graphik-img img{
     width: 80%;
-    margin: 0px 0px 0px -17%;
+  }
+
+  .graphik-img{
+    margin: 0px 0px 0px 31%;
   }
 
   .idenity-img{

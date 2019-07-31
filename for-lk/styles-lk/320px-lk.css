@@ -2,12 +2,12 @@
 
   .main-content{
     overflow: hidden;
-    margin: 0px 5px 0 55px;
+    margin: 30px -6.7% 70px 60px;
   }
 
   nav {
     background-color: #F5F5F5;
-    height: 100vh;
+    height: 109vh;
     position: fixed;
     width: 50px;
     top: 0;
@@ -32,36 +32,46 @@
     /* margin-right: 10px; */
   }
 
+  .head-present-img{
+    margin: 0 0 0 40px;
+  }
+
+
+  .head-present-img img{
+    width: 110%;
+  }
+
   .head-present{
-    margin-left: 50px;
-  }
-  .head-present img{
-    width: 100%;
+    margin: 25px 0px 0 70px;
+    position: absolute;
+    width: 82%;
   }
 
-  .project-name h1{
-    font-size: 30px;
+  .project-name {
+    font-size: 20px;
     color: #000000;
+    display: flex;
+    justify-content: space-between;
+    white-space: pre;
   }
 
-  .project-name p{
-    font-size: 14px;
-    line-height: 18px;
-    color: #9D9D9D;
-    max-width: 250px;
-    margin-top: 8px;
+  .project-name li{
+    padding-left: 20px;
   }
 
-  .project-name-discription p{
+
+  .project-name-discription p:last-child {
+    font-size: 25px;
+    line-height: 50px;
+    color: #000000;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .project-name-discription p:first-child {
     font-size: 18px;
-    line-height: 28px;
+    line-height: 24px;
     color: #000000;
-    margin: 50px 0px 90px 0px;
-    max-width: 500px;
-  }
-
-  .discription {
-    margin: 30px 0 0px 0;
+    margin: 0px 0px 50px 0px;
   }
 
   h2 {
@@ -76,7 +86,7 @@
   }
 
   .constraints{
-    margin: 30px 0 90px 0;
+    margin: 70px 0 90px 0;
   }
 
 
@@ -86,11 +96,11 @@
 
   .constraints img{
     width: 80%;
-    margin: 20px 0px 0px 9%;
+    margin: 40px 0px 0px 9%;
   }
 
   .request-creation{
-    margin: 0 0 90px 10px;
+    margin: 70px 0 90px 10px;
   }
   .request-creation p{
     max-width: 400px;

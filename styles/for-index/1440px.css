@@ -18,9 +18,10 @@
   }
 
   .main-paragraph {
-    font-size: 40px;
-    line-height: 55px;
+    font-size: 50px;
+    line-height: 76px;
     margin-top: 140px;
+    max-width: 900px;
   }
 
   .menu-heading {

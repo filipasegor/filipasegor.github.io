@@ -47,8 +47,8 @@
   }
 
 
-  .medium-section, .big-container{
-    margin-bottom: 80px;
+  .medium-section, .big-container, .medium-section-half{
+    margin-bottom: 30px;
     width: 100%;
 
   }
@@ -56,7 +56,7 @@
   .medium-section h2{
 
     font-size: 25px;
-    padding: 5px 0px 5px 0px;
+    padding: 10px 0px 10px 0px;
     line-height: 30px;
 
   }
@@ -64,7 +64,13 @@
   .big-container h2{
 
     font-size: 25px;
-    padding: 5px 0px 5px 0px;
+    padding: 10px 0px 10px 0px;
+    line-height: 30px;
+  }
+
+  .medium-section-half h2{
+    font-size: 25px;
+    padding: 10px 0px 10px 0px;
     line-height: 30px;
   }
 
@@ -109,6 +115,16 @@
     display: none;
   }
 
+  .medium-container-left-half{
+    /* margin-left: 6vw; */
+    width: 50%;
+  }
+
+  .medium-container-left-half img{
+    width: 95%;
+    transition: 0.3s;
+  }
+
 
   .medium-container-left img:hover{
   -webkit-transform: rotateZ(7deg);
@@ -127,6 +143,13 @@
 
 
   .big-container img:hover {
+    -webkit-transform: rotateZ(3deg);
+    -ms-transform: rotateZ(3deg);
+    transform: rotateZ(3deg);
+    transition: 0.3s;
+  }
+
+  .medium-container-left-half img:hover{
     -webkit-transform: rotateZ(3deg);
     -ms-transform: rotateZ(3deg);
     transform: rotateZ(3deg);

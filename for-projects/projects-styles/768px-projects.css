@@ -49,7 +49,7 @@
   }
 
 
-  .medium-section, .big-container{
+  .medium-section, .big-container, .medium-section-half{
     width: 100%;
 
   }
@@ -68,6 +68,12 @@
     padding: 5px 0px 5px 0px;
     line-height: 30px;
 
+  }
+
+  .medium-section-half{
+    font-size: 25px;
+    padding: 5px 0px 5px 0px;
+    line-height: 30px;
   }
 
   p{
@@ -106,9 +112,18 @@
   }
 
   .big-container img:first-child{
-
     display: none;
+  }
 
+
+  .medium-container-left-half{
+    /* margin-left: 6vw; */
+    width: 100%;
+  }
+
+  .medium-container-left-half img{
+    width: 100%;
+    transition: 0.3s;
   }
 
   .footer ul{

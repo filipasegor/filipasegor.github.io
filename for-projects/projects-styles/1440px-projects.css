@@ -51,7 +51,7 @@
   }
 
 
-  .medium-section, .big-container{
+  .medium-section, .big-container, .medium-section-half{
     margin-bottom: 20px;
     width: 100%;
 
@@ -69,6 +69,11 @@
     font-size: 30px;
     padding: 20px 0px 10px 0px;
 
+  }
+
+  .medium-section-half h2{
+    font-size: 30px;
+    padding: 20px 0px 10px 0px;
   }
 
   p{
@@ -112,6 +117,16 @@
     display: none;
   }
 
+  .medium-container-left-half{
+    /* margin-left: 6vw; */
+    width: 50%;
+  }
+
+  .medium-container-left-half img{
+    width: 95%;
+    transition: 0.3s;
+  }
+
 
   .medium-container-left img:hover{
   -webkit-transform: rotateZ(7deg);
@@ -128,8 +143,14 @@
 
   }
 
-
   .big-container img:hover {
+    -webkit-transform: rotateZ(3deg);
+    -ms-transform: rotateZ(3deg);
+    transform: rotateZ(3deg);
+    transition: 0.3s;
+  }
+
+  .medium-container-left-half img:hover{
     -webkit-transform: rotateZ(3deg);
     -ms-transform: rotateZ(3deg);
     transform: rotateZ(3deg);

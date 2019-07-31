@@ -98,9 +98,17 @@
   }
 
   .big-container img:first-child{
-
     display: none;
+  }
 
+  .medium-container-left-half{
+    /* margin-left: 6vw; */
+    width: 100%;
+  }
+
+  .medium-container-left-half img{
+    width: 100%;
+    transition: 0.3s;
   }
 
   .footer ul{
@@ -117,7 +125,7 @@
 
   .footer li:nth-child(2n){
 
-    padding: 20px 0px 20px 0px;
+    padding: 20px 0px 0px 0px;
 
   }
 

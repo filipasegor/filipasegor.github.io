@@ -31,29 +31,46 @@
     /* margin-right: 10px; */
   }
 
-  .head-present img{
-    margin-left: 87px;
-    width: 95%;
+  .head-present-img{
+    margin: 0 0 0 70px;
   }
 
-  .project-name h1{
+
+  .head-present-img img{
+    width: 105%;
+  }
+
+  .head-present{
+    margin: 70px 50px 0 200px;
+    position: absolute;
+    width: 82%;
+  }
+
+  .project-name {
     font-size: 60px;
     color: #000000;
+    display: flex;
+    justify-content: space-between;
+    white-space: pre;
   }
 
-  .project-name p{
-    font-size: 18px;
-    line-height: 22px;
-    color: #9D9D9D;
-    max-width: 270px;
+  .project-name li{
+    padding-left: 50px;
   }
 
-  .project-name-discription p{
-    font-size: 35px;
-    line-height: 50px;
+
+  .project-name-discription {
+    font-size: 61px;
+    line-height: 103px;
     color: #000000;
-    margin: 0px 0px 0px -10%;
-    max-width: 600px;
+    margin: 80px 50px 0px 200px;
+  }
+
+  .project-name-discription p:first-child {
+    font-size: 35px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0px 0px 50px 0px;
   }
 
   .discription {
@@ -84,8 +101,11 @@
   }
 
   .graphik-img img{
-    width: 100%;
-    margin: 0px 0px 0px -64%;
+    width: 110%;
+  }
+
+  .graphik-img{
+    margin: 0px 130px 0px 31%;
   }
 
   .idenity-img{
@@ -209,6 +229,8 @@
     padding: 0px 0px 0px 30px;
 
   }
+
+
 
 
 
