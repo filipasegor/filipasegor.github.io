@@ -66,3 +66,11 @@
 .footer ul{
   font-family: "BergenMono-Regular",monospace;
 }
+
+a:hover {
+  color: #773FDD;
+}
+
+.menu h1:hover{
+  color: #773FDD;
+}
